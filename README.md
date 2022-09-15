@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
-<h3 align="center">I’m a full stack web developer and online instructor with 20+ years of experience.
+<h3 align="center">Here you will find mostly projects I create for <a href="https://www.youtube.com/c/CarlosMafla" target="blank">my YouTube channel</a>. If you come from a YouTube tutorial make sure to star the repo before you leave 🙂. If you are interested in my work and want to connect with me directly, make sure to subscribe to <a href="http://eepurl.com/dGyT0L" target="blank">my newsletter</a>. Thanks.
 </h3>
 
 </br>
