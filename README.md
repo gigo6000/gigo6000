@@ -7,8 +7,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.youtube.com/c/CarlosMafla" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" alt="Carlos Mafla" height="60" width="60" /></a>
-  <a href="https://www.instagram.com/gigo6000/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="Carlos Mafla" height="40" width="40" /></a>
+  <a href="https://www.youtube.com/c/CarlosMafla" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" alt="Carlos Mafla YouTube Channel" height="60" width="60" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/gigo6000/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="Carlos Mafla Instagram" height="40" width="40" /></a>
+  &nbsp;&nbsp;
+  <a href="hhttps://www.linkedin.com/in/carlosmafla/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="Carlos Mafla LinkedIn"  width="40" /></a>
+
 </p>
 
 
