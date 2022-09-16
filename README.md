@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
   <a href="https://www.youtube.com/c/CarlosMafla" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" alt="Carlos Mafla" height="60" width="60" /></a>
-  <a href="http://eepurl.com/dGyT0L" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="Carlos Mafla Newsletter" height="40" width="40" /></a>
+  <a href="https://www.instagram.com/gigo6000/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="Carlos Mafla" height="40" width="40" /></a>
 </p>
 
 
